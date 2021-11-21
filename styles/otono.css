@@ -1,0 +1,27 @@
+
+        @font-face {
+              font-family: sacra;
+              src: url("../fonts/sacramento.regular.ttf");
+        }
+        
+        body {
+              margin: 0%;
+              padding: 0%;
+              background-image: url("../images/fondo.jpg");
+              background-size: 10%;
+              background-attachment: scroll;
+              font-family: sacra;
+              font-size: 30px;}
+        #container {background-color: #f5ad5585;
+                    width:80%;
+                    border-radius: 80px;
+                    margin:5vh auto;
+                    padding: 5px;
+                    border-style: dashed;
+                    border-width: thick}
+        #poema {    width: 400px;
+                    margin: auto;
+                    font-size: 1em;
+                    font-weight: bold;}
+        #poema h2 { text-align: center;}
+    
